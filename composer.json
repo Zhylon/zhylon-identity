@@ -1,0 +1,21 @@
+{
+    "name": "zhylon/zhylon-identity",
+    "description": "Meta-package: everything a Zhylon product needs to integrate with ZhylonID (SSO login + internal API client) in one require.",
+    "type": "metapackage",
+    "license": "MIT",
+    "keywords": ["zhylon", "laravel", "oauth2", "sso", "identity"],
+    "homepage": "https://github.com/zhylon/zhylon-identity",
+    "authors": [
+        {
+            "name": "Tobias Maxham",
+            "homepage": "https://zhylon.net"
+        }
+    ],
+    "require": {
+        "php": "^8.3",
+        "zhylon/zhylon-auth": "^2.0",
+        "zhylon/zhylonid-service": "^1.0"
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
