@@ -1,4 +1,9 @@
-# Zhylon Identity
+[![Zhylon Identity][zhylon-identity-image]][zhylon-identity-edit-link]
+
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/zhylon/zhylon-identity.svg?style=flat-square)](https://packagist.org/packages/zhylon/zhylon-identity)
+[![PHP Version](https://img.shields.io/packagist/dependency-v/zhylon/zhylon-identity/php?style=flat-square)](https://packagist.org/packages/zhylon/zhylon-identity)
+[![MIT Licensed](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
+[![Total Downloads](https://img.shields.io/packagist/dt/zhylon/zhylon-identity.svg?style=flat-square)](https://packagist.org/packages/zhylon/zhylon-identity)
 
 Convenience meta-package. Pulls in both:
 
@@ -33,3 +38,6 @@ constraints on the two real packages. Bump its own version when you want to publ
 new *recommended combination* (e.g. after a major release of either dependency), not on
 every change to either package individually.
 
+
+[zhylon-identity-image]: https://socialify.git.ci/Zhylon/zhylon-identity/image?description=1&font=Raleway&issues=1&language=1&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Light
+[zhylon-identity-edit-link]: https://socialify.git.ci/Zhylon/zhylon-identity?description=1&font=Raleway&issues=1&language=1&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Light
