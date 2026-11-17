@@ -12,9 +12,9 @@
         }
     ],
     "require": {
-        "php": "^8.3",
-        "zhylon/zhylon-auth": "^2.0",
-        "zhylon/zhylonid-service": "^1.0"
+        "php": "^8.4",
+        "zhylon/zhylon-auth": "^3.0",
+        "zhylon/zhylonid-service": "^2.0"
     },
     "minimum-stability": "stable",
     "prefer-stable": true
